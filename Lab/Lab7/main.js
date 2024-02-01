@@ -1,3 +1,7 @@
 let a = 'b';
 
-console.log(b);
+function newname(name){
+    console.log(`Hello ${name}`);
+}
+
+newnames(khang);
