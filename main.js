@@ -1,4 +1,4 @@
-          const a  = 10;
+        const a  = 10;
 
         console.log(a);
 // Chỗ này sẽ báo lỗi vì khai báo biến a mà không dùng!!!
