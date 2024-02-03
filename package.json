@@ -9,10 +9,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.56.0"
-  },
-  "dependencies": {
+    "eslint": "^8.56.0",
     "husky": "^9.0.10"
   },
-  "postinstall": "husky install"
+  "postinstall": "husky install",
+  "husky": {
+    "hooks":{
+      "pre-push": "CI=true npm test"
+    }
+  }
 }

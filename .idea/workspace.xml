@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b39c883c-0b6b-46ba-a35e-a1c59917f48e" name="Changes" comment="text2" />
+    <list default="true" id="b39c883c-0b6b-46ba-a35e-a1c59917f48e" name="Changes" comment="text2">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.huskyrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.huskyrc.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +66,7 @@
       <workItem from="1706792124199" duration="737000" />
       <workItem from="1706854529165" duration="310000" />
       <workItem from="1706855521272" duration="263000" />
+      <workItem from="1706857219620" duration="567000" />
     </task>
     <task id="LOCAL-00001" summary="text2">
       <option name="closed" value="true" />
@@ -87,7 +93,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/lab2" />
+                        <option value="origin/Lab7" />
                       </list>
                     </value>
                   </entry>
